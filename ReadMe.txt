@@ -1,1 +1,3 @@
 # GitCourse
+
+# John Harper
